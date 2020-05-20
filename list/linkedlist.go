@@ -1,3 +1,4 @@
+// Package list implements list-like data structure
 package list
 
 import (
